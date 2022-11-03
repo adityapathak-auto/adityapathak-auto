@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Full Stack Development From Masai School**
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on MERN Stack projects and lot of learnings. Happy to Contribute in Opne source Projects**
+- 👯 I’m looking to collaborate on **I’m looking to collaborate on MERN Stack projects and lot of learnings. Happy to Contribute in Open source Projects**
 
 - 👨‍💻 All of my projects are available at [https://aditya-pathak-portfolio.netlify.app/](https://aditya-pathak-portfolio.netlify.app/)
 
