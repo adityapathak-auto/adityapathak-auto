@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityapathak-auto" alt="adityapathak-auto" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Full Stack Development From Masai School**
+- 🌱 I’m currently working as **Software Engineer** at Inspironlabs Software Systems.
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on MERN Stack projects and lot of learnings. Happy to Contribute in Open source Projects**
+- 👯 I’m looking to collaborate on **I’m looking to collaborate on MERN Stack projects and a lot of learnings. Happy to Contribute in Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://aditya-pathak-portfolio.netlify.app/](https://aditya-pathak-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on Web Development [https://medium.com/@manhit06](https://medium.com/@manhit06)
 
-- 💬 Ask me about **Ask me about anything related to MERN stack and data structure & algorithms.I will be happy to tell, if I am unable then surely we will together learn new things.**
+- 💬 Ask me about **Ask me about anything related to MERN stack and data structure & algorithms. I will be happy to tell, if I am unable then surely we will together learn new things.**
 
 - 📫 How to reach me **manhit06@gmail.com**
 
