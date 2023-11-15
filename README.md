@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src = "https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"  align="center" width= "100"/>, I'm Aditya Pathak <img src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/coding-boy.gif" width="150" align ="center"/></h1>
-<h3 align="center">I'm a Full-Stack Web Developer with hands-on experience in designing, developing, and implementing applications and solutions using JavaScript, ReactJS.</h3>
+<h3 align="center">🚀 Full Stack MERN Developer passionate about crafting seamless web experiences. Expert in Node.js, Express.js, React, and MongoDB. Committed to clean code and continuous learning. Let's connect, learn, and build together! 🌐💻🌟</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityapathak-auto" alt="adityapathak-auto" /></a> </p>
 
